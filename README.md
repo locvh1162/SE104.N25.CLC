@@ -23,7 +23,7 @@
 <a name="doancuoiky"></a>
 ## Đồ án cuối kì
 
-* **Đề tài**: GENERATIVE ADVERSARIAL NETWORKS (GAN)
+* **Đề tài**: ĐỀ TÀI QUẢN LÝ PHÒNG MẠCH TƯ
 * **Thành viên nhóm**:
 
 | STT | MSSV     | Name           | Github                                    | Email                  |
